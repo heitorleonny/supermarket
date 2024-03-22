@@ -1,0 +1,31 @@
+body{
+    background-color: #2d2d2d;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 64px;
+}
+
+.input-id{
+    display: flex;
+    width: 60%;
+    margin: 0px 20% ;
+    align-items: center;
+    justify-content: center;
+}
+
+.input-id input{
+    background-color: white;
+    border-radius: 8px;
+    width: 50%;
+}
+
+.input-id button{
+    color: black;
+    background-color: yellow;
+    font-size: 16px;
+    border-radius: 8px;
+    
+}
